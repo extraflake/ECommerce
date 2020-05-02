@@ -1,0 +1,14 @@
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.deps.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.dev.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfoInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.pdb
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.pdb
